@@ -1,8 +1,8 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)]
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-[Forks](https://img.shields.io/github/forks/StarTrooper08/BAME.svg)
+https://img.shields.io/github/forks/StarTrooper08/BAME.svg
 
-[Watch](https://img.shields.io/github/watchers/StarTrooper08/BAME.svg)
+https://img.shields.io/github/watchers/StarTrooper08/BAME.svg
 
 
 # BAME
