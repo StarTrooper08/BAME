@@ -1,10 +1,8 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)]
 
-[![GitHub forks](https://img.shields.io/github/forks/StarTrooper08/BAME.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/StarTrooper08/BAME/network/)
-[![GitHub stars](https://img.shields.io/github/stars/StarTrooper08/BAME.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/StarTrooper08/BAME/stargazers/)
-[![GitHub watchers](https://img.shields.io/github/watchers/StarTrooper08/BAME.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/StarTrooper08/BAME/watchers/)
+[Forks](https://img.shields.io/github/forks/StarTrooper08/BAME.svg)
 
-
+[Watch](https://img.shields.io/github/watchers/StarTrooper08/BAME.svg)
 
 
 # BAME
