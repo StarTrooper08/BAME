@@ -34,7 +34,7 @@ pywk.text_to_handwriting("Question " + "" + question + "\n" + "Answer " + "" + a
 ```
 pywk.text_to_handwriting(  
                  "string"   ,         <---  String value should be passed as first parameter                 
-             "imagename.png"    ,                         <---  Image name with png extension or complete path where to save iamge
+             "imagename.png"    ,                         <---  Image name with png extension or complete path where to save image
                    rgb=[0,0,255]    )                              <---   color of the font
 
                        
